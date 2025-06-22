@@ -1,0 +1,7 @@
+.sidebar-item:hover {
+    background-color: rgba(205, 210, 216, 0.8);
+}
+
+.active-tab {
+    background-color: rgb(183, 230, 230);
+}
