@@ -1,0 +1,4 @@
+.animated-bg {
+  background: linear-gradient(to left, #90cce7, #4280f3);
+  animation: gradientShift 8s ease infinite;
+}

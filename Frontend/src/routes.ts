@@ -12,6 +12,6 @@ export const routes: Route[] = [
         path: "Files",
         Component: Files,
         children: []
-    }
+    },
     
 ]

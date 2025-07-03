@@ -5,7 +5,7 @@ export const Header: FC = () => {
   return (
     <div className="d-flex justify-content-between px-4 py-2">
       <section className="d-flex">
-        <p className="fs-2 pe-3">CloudVault</p>
+        <p className="fs-2 pe-3 fw-bold fst-italic">CloudVault</p>
         <i className="bi bi-safe h1"></i>
       </section>
       <section className="d-flex">
